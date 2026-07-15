@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=200&section=header&text=Nikita%20Kharlov&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Go%20%2F%20Python%20%2F%20ML&descAlignY=55&descSize=18" />
@@ -18,12 +17,8 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=terracodum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=terracodum&theme=tokyonight&hide_border=true" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=terracodum&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=terracodum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=terracodum&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 <br/><br/>
 
