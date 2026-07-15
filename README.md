@@ -22,6 +22,15 @@
 
 <br/><br/>
 
+<!-- snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/terracodum/terracodum/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/terracodum/terracodum/output/github-contribution-grid-snake.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/terracodum/terracodum/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=100&section=footer" />
 
 </div>
