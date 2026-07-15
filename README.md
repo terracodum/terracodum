@@ -17,11 +17,6 @@
 
 <br/><br/>
 
-<img src="https://github-stats-extended.vercel.app/api?username=terracodum&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=terracodum&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/><br/>
-
 <!-- snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/terracodum/terracodum/output/github-contribution-grid-snake-dark.svg" />
